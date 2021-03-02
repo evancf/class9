@@ -2,6 +2,8 @@
 
 1. Write the null and alternative hypotheses you would use to test each of the following situations:
 - Is a coin fair?
+** Null:
+
 - Only about 20% of people who try to quit smoking succeed. Sellers of a motivational tape claim that listening to the recorded messages can help people quit.
 - In the 1950s only about 40% of high school graduates went on to college. Has this percentage changed?
 - We field test a new type of pipette, planning to market it only if we are sure that at least 60% of people like the new version.
